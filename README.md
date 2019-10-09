@@ -10,6 +10,8 @@
 
 <img alt="screesnhot" src="./screenshot.png">
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f00930d6-7285-4bdb-8382-b0a007b8e368/deploy-status)](https://app.netlify.com/sites/brendan-moore-ca/deploys)
+
 This starter is a fork of Gatsby Starter Blog, the most popular starter by far – with second place being Gatsby Starter Netlify CMS. So I decided to combine the 2!
 
 ## 🚀 Quick start
@@ -54,6 +56,6 @@ Start from [this point](https://www.gatsbyjs.org/docs/sourcing-from-netlify-cms/
 
 ## 💫 Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thomaswangio/gatsby-personal-starter-blog)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/brendanfdmoore/personal-site)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
